@@ -1,0 +1,83 @@
+id: ID1100099
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T20:22:12.743038'
+last_modified: '2022-05-27T20:22:12.743050'
+parser: null
+source_metadata:
+  title: 'Mātṛceṭa: Śatapañcāśatka'
+  language: sa
+  base:
+    fC666:
+      title: Title
+      base_file: fC666.txt
+      order: 1
+    fE6E4:
+      title: Preface
+      base_file: fE6E4.txt
+      order: 2
+    f7E21:
+      title: 'Chapter 1: Upodghātaḥ'
+      base_file: f7E21.txt
+      order: 3
+    f0BB4:
+      title: 'Chapter 2: Hetustavaḥ'
+      base_file: f0BB4.txt
+      order: 4
+    fE489:
+      title: 'Chapter 3: Nirupamastavaḥ'
+      base_file: fE489.txt
+      order: 5
+    f1967:
+      title: 'Chapter 4: Adbhutastavaḥ'
+      base_file: f1967.txt
+      order: 6
+    fFD15:
+      title: 'Chapter 5: Rūpastavaḥ'
+      base_file: fFD15.txt
+      order: 7
+    fEDEE:
+      title: 'Chapter 6: Karuṇāstavaḥ'
+      base_file: fEDEE.txt
+      order: 8
+    f8D88:
+      title: 'Chapter 7: Vacanastavaḥ'
+      base_file: f8D88.txt
+      order: 9
+    fD9A4:
+      title: 'Chapter 8: Śāsanastavaḥ'
+      base_file: fD9A4.txt
+      order: 10
+    f4494:
+      title: 'Chapter 9: Praṇidhistavaḥ'
+      base_file: f4494.txt
+      order: 11
+    f9C12:
+      title: 'Chapter 10: Mārgaāvatārastavaḥ'
+      base_file: f9C12.txt
+      order: 12
+    fC4FE:
+      title: 'Chapter 11: Duṣkarastavaḥ'
+      base_file: fC4FE.txt
+      order: 13
+    f9280:
+      title: 'Chapter 12: Kauśalastavaḥ'
+      base_file: f9280.txt
+      order: 14
+    f77AD:
+      title: 'Chapter 13: Ānṛṇyastavaḥ'
+      base_file: f77AD.txt
+      order: 15
+    fB339:
+      title: Colophon
+      base_file: fB339.txt
+      order: 16
+  chapter_to_tile: {}
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
